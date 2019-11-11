@@ -16,16 +16,12 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string><![CDATA[https://raw.githubusercontent.com/Herrycc1988/7star/master/57X57.png]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string><![CDATA[https://raw.githubusercontent.com/Herrycc1988/7star/master/512X512.png]]></string>
 				</dict>
@@ -38,8 +34,6 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>App Subtitle</string>
 				<key>title</key>
 				<string><![CDATA[嘉鸿娱乐]]></string>
 			</dict>
