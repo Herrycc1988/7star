@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string><![CDATA[https://jh1818.vip/7star.ipa]]></string>
+					<string><![CDATA[https://raw.githubusercontent.com/Herrycc1988/7star/master/7star.ipa]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string><![CDATA[https://jh1818.vip/57X57.png]]></string>
+					<string><![CDATA[https://raw.githubusercontent.com/Herrycc1988/7star/master/57X57.png]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string><![CDATA[https://jh1818.vip/512X512.png]]></string>
+					<string><![CDATA[https://raw.githubusercontent.com/Herrycc1988/7star/master/512X512.png]]></string>
 				</dict>
 			</array>
 			<key>metadata</key>
